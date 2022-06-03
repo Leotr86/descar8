@@ -4,11 +4,11 @@
   "env": {
     "tg_api_id": {
       "description": "El token del bot",
-      "value": ""
+      "value": "5421557524:AAG82xQnX4WjbKLJALgBFAUsB9DXm3zBR5w"
     },
     "tg_api_hash": {
       "description": "El token del bot",
-      "value": ""
+      "value": "5421557524:AAG82xQnX4WjbKLJALgBFAUsB9DXm3zBR5w"
     },
     "tg_admin_user": {
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
